@@ -13,7 +13,17 @@ N | Algorithm | Time complexity
 2 | Divide and Conquer | O(nlogn)
 3 | Kadane's Algorithm | O(n)
 
+<br>
+I compared these three solutions in my local machine and result was (duration is given with milliseconds):
+<br>
+
+Array length | Brute-force| Divide and Conquer | Kadane's Algorithm
+----|----|----|----
+1000 | 13 ms | 2 ms | 1 ms
+1_000_000 | 646535 ms | 115 ms | 9 ms
+
 ***
 
 ### Time complexity:
 ![time-complexity](http://www.mycertnotes.com/wp-content/uploads/2017/07/rate-of-growth.jpg)
+
