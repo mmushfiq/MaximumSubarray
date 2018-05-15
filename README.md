@@ -15,7 +15,7 @@ N | Algorithm | Time complexity
 
 <br>
 I compared these three solutions in my local machine and result was (duration is given with milliseconds):
-<br>
+<br><br>
 
 Array length | Brute-force| Divide and Conquer | Kadane's Algorithm
 ----|----|----|----
